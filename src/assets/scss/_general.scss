@@ -1,0 +1,31 @@
+html {
+	box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+
+body {
+	font-family: var(--bellefair);
+	min-height: min-content;
+	margin: 0 auto;
+	max-width: 120rem;
+	overflow-x: hidden;
+}
+
+#app {
+	min-height: 100vh;
+}
+
+#covers {
+	position: absolute;
+	z-index: -2;
+}
