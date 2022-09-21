@@ -284,7 +284,7 @@ h3 {
 @media only screen and (min-width: 75rem) {
 	.crew-container {
 		background-image: url('../assets/images/crew/background-crew-desktop.jpg');
-		max-height: 100vh;
+		max-height: unset;
 		min-height: 100vh;
 		overflow: hidden;
 	}
