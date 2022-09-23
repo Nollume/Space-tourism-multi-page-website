@@ -1,0 +1,1 @@
+import{_ as a,b as n,c as d,p as r,h as c,d as o}from"./index.9479ded2.js";const s={},t=e=>(r("data-v-4b37975e"),e=e(),c(),e),i={class:"not-found-container"},u=t(()=>o("h2",null,"404",-1)),m=t(()=>o("h3",null,"Page not found",-1)),p=[u,m];function _(e,g){return n(),d("div",i,p)}var b=a(s,[["render",_],["__scopeId","data-v-4b37975e"]]);export{b as default};
